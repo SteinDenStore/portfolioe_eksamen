@@ -1,0 +1,37 @@
+@font-face {
+  font-family: oswald;
+  src: url(/font/Oswald-VariableFont_wght.woff2);
+}
+@font-face {
+  font-family: serif;
+  src: url(/font/SourceSerif4-Regular.woff2);
+}
+header {
+  background-color: #a91d3a;
+}
+body {
+  background-color: #151515;
+}
+
+ul {
+  list-style: none;
+  justify-content: space-between;
+  text-align: center;
+}
+p {
+  color: #eeee;
+  font-family: serif;
+}
+h1 {
+  font-size: 30px;
+  text-align: center;
+  color: #eeee;
+  font-family: oswald;
+}
+footer {
+  text-align: center;
+  border: 2px solid #a91d3a;
+  justify-content: space-around;
+  font-family: serif;
+  /*   margin-top: 1em; */
+}
