@@ -1,5 +1,5 @@
 @media (max-width: 799px) {
-  hr {
+  .index-side hr {
     margin-top: 20px;
     margin-bottom: 20px;
   }
@@ -15,13 +15,13 @@
   }
   a {
     text-decoration: none;
-    font-family: bebas;
+    font-family: oswald;
     color: #eeee;
   }
 }
 
 @media (min-width: 800px) {
-  hr {
+  .index-side hr {
     margin-top: 59px;
     margin-bottom: 59px;
   }

@@ -22,9 +22,22 @@ p {
   color: #eeee;
   font-family: serif;
 }
-h1 {
+h3 {
+  color: #eeee;
+  font-family: serif;
+}
+.forside-h1 {
   font-size: 30px;
   text-align: center;
+  color: #eeee;
+  font-family: oswald;
+}
+.generel-h1 {
+  font-size: 30px;
+  color: #eeee;
+  font-family: oswald;
+}
+h2 {
   color: #eeee;
   font-family: oswald;
 }
@@ -34,4 +47,13 @@ footer {
   justify-content: space-around;
   font-family: serif;
   /*   margin-top: 1em; */
+}
+.hover-link {
+  color: #eeee;
+  text-decoration: none;
+  font-family: oswald;
+}
+.hover-link:hover {
+  color: #c73659;
+  font-family: oswald;
 }
