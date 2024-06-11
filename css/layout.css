@@ -29,6 +29,16 @@
   .hr_desktop {
     display: none;
   }
+  .grid_1_1_1_om_mig {
+    display: grid;
+  }
+  .img_skjul {
+    display: none;
+  }
+  .img_fix {
+    width: 200px;
+    height: auto;
+  }
 }
 
 @media (min-width: 800px) {
@@ -41,6 +51,12 @@
     padding-right: 2em;
   }
   .grid_1_1_1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1em;
+    justify-content: space-between;
+  }
+  .grid_1_1_1_om_mig {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 1em;
@@ -73,5 +89,9 @@
   }
   .footer_portefolie {
     margin-top: 50px;
+  }
+  .img_fix {
+    width: 330px;
+    height: auto;
   }
 }

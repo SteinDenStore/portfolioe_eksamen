@@ -68,3 +68,11 @@ footer {
   color: #c73659;
   font-family: oswald;
 }
+.section_color {
+  border: solid #a91d3a;
+  margin-bottom: 50px;
+}
+.p_om_mig {
+  padding-inline: 10px;
+  text-align: center;
+}
