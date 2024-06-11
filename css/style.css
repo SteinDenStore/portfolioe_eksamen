@@ -3,7 +3,7 @@
   src: url(/font/Oswald-VariableFont_wght.woff2);
 }
 @font-face {
-  font-family: serif;
+  font-family: sourceserif;
   src: url(/font/SourceSerif4-Regular.woff2);
 }
 header {
@@ -20,11 +20,11 @@ ul {
 }
 p {
   color: #eeee;
-  font-family: serif;
+  font-family: sourceserif;
 }
 h3 {
   color: #eeee;
-  font-family: serif;
+  font-family: sourceserif;
 }
 .forside-h1 {
   font-size: 30px;
@@ -45,7 +45,7 @@ footer {
   text-align: center;
   border: 2px solid #a91d3a;
   justify-content: space-around;
-  font-family: serif;
+  font-family: sourceserif;
   /*   margin-top: 1em; */
 }
 .hover-link {
