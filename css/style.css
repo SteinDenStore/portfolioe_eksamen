@@ -1,10 +1,10 @@
 @font-face {
   font-family: oswald;
-  src: url(/font/Oswald-VariableFont_wght.woff2);
+  src: url(../font/Oswald-VariableFont_wght.woff2);
 }
 @font-face {
   font-family: sourceserif;
-  src: url(/font/SourceSerif4-Regular.woff2);
+  src: url(../font/SourceSerif4-Regular.woff2);
 }
 header {
   background-color: #a91d3a;
