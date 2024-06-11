@@ -74,28 +74,4 @@
   .footer_portefolie {
     margin-top: 50px;
   }
-  .hover-link_portefolie_t5 {
-    color: #eeee;
-    text-decoration: none;
-    font-family: oswald;
-    text-align: center;
-    border: solid #a91d3a;
-    margin-top: 125px;
-  }
-  .hover-link_portefolie_t5:hover {
-    color: #c73659;
-    font-family: oswald;
-  }
-  .hover-link_portefolie_t5_virksomhed {
-    color: #eeee;
-    text-decoration: none;
-    font-family: oswald;
-    text-align: center;
-    border: solid #a91d3a;
-    margin-top: 137px;
-  }
-  .hover-link_portefolie_t5_virksomhed:hover {
-    color: #c73659;
-    font-family: oswald;
-  }
 }
